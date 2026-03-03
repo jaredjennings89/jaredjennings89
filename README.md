@@ -13,20 +13,6 @@ Python • Pandas • SQL • Jupyter • Git • Matplotlib • Seaborn • Air
 
 ### 🚀 Featured Projects
 
-- 🔄 **[Healthcare Data Pipeline](https://github.com/jaredjennings89)**  
-  A real-world ETL workflow using Python to extract, clean, and load public health data.
-
-- 📊 **[Exploratory Health Trends](https://github.com/jaredjennings89)**  
-  An end-to-end EDA on CDC health behavior data to uncover regional trends and risk factors.
-
-- 🧠 **[ML Classifier: Predicting Health Outcomes](https://github.com/jaredjennings89)**  
-  A beginner-friendly classification project using Scikit-learn and medical survey data.
-
-- 🧹 **[Data Cleaning Toolkit](https://github.com/jaredjennings89)**  
-  A Python-based toolkit to clean and preprocess messy CSV files using reusable scripts.
-
-- 🧾 **[SQL Analysis: Patient Data](https://github.com/jaredjennings89)**  
-  SQL-driven data exploration on synthetic healthcare records with insights and visualizations.
 
 ---
 
